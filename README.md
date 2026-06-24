@@ -22,6 +22,7 @@ old Racing Game from Papyrus
 ## Further Links (2026-06-24) ##
 - https://www.pcgamingwiki.com/wiki/Grand_Prix_Legends
 - http://www.gplworld.de/en/grand-prix-legends/gpl-easy-installation-guide
+- http://www.gplworld.de/en/grand-prix-legends/gpl-tracks/gpl-1967-track-pack | https://www.youtube.com/watch?v=Cyk8H9DhIhQ
 - http://amirkamal.com/gpl/pribluda/pribluda_readme.html#configuration
 - http://www.grandprixlegends.c1.biz/GPLEA/
 - http://www.grandprixlegends.c1.biz/index.html
