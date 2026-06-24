@@ -13,7 +13,7 @@ old Racing Game from Papyrus
   
 ### with dxwrapper and dxvk -> Running Stock GPL Version ###
 - with GPL Worlds Easy Installer: http://www.gplworld.de/en/grand-prix-legends/gpl-easy-installation-guide
-- config see: https://github.com/elishacloud/dxwrapper/issues/353#issuecomment-3938482613
+- In Game Picture and config see: https://github.com/elishacloud/dxwrapper/issues/353#issuecomment-3938482613
 ### with d7vk -> Running GPL with 1967 Track Pack ###
 - Steps from Stock GPL Version are needed 
 - GPL Worlds Track Pack Installer: http://www.gplworld.de/en/grand-prix-legends/gpl-tracks/gpl-1967-track-pack
